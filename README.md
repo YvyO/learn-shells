@@ -1,1 +1,1 @@
-# learn-shells
+# Learning shella
